@@ -1,0 +1,11 @@
+City,Age,Salary,Purchased
+Bardoli,44,72000,No
+Surat,27,48000,Yes
+Valsad,30,54000,No
+Surat,38,61000,No
+Valsad,40,,Yes
+Bardoli,35,58000,Yes
+Surat,,52000,No
+Bardoli,48,79000,Yes
+Valsad,50,83000,No
+Bardoli,37,67000,Yes
